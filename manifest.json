@@ -1,0 +1,76 @@
+{
+    "item": {
+        "name": "环间图库",
+        "description": "安卓客户端请前往 https://www.bandbbs.cn/resources/3304/ 下载安装",
+        "preview": [
+            "prew1.png",
+            "prew2.png",
+            "prew3.png",
+            "prew4.png",
+            "prew5.png",
+            "prew6.png",
+            "prew7.png",
+            "prew8.png",
+            "prew9.png",
+            "prew10.png",
+            "prew11.png",
+            "prew12.png",
+            "prew13.png",
+            "prew14.png",
+            "prew15.png",
+            "prew16.png",
+            "prew17.png",
+            "prew18.png"
+        ],
+        "icon": "icon.png",
+        "source_url": "",
+        "author": [
+            {
+                "name": "NEORUAA",
+                "author_url": "https://github.com/NEORUAA"
+            },
+            {
+                "name": "GiveMeFive",
+                "author_url": "https://github.com/675426647"
+            },
+            {
+                "name": "无源流沙",
+                "author_url": "https://space.bilibili.com/3493138744215777/"
+            }
+        ]
+    },
+    "downloads": {
+        "o62": {
+            "version": "24.1.23_2.0",
+            "file_name": "n62_com.givemefive.pics.release.2.0.0.rpk"
+        },
+        "n62": {
+            "version": "24.1.23_2.0",
+            "file_name": "n62_com.givemefive.pics.release.2.0.0.rpk"
+        },
+        "o63": {
+            "version": "24.1.23_2.0",
+            "file_name": "n62_com.givemefive.pics.release.2.0.0.rpk"
+        },
+        "o62m": {
+            "version": "24.1.23_2.0",
+            "file_name": "n62_com.givemefive.pics.release.2.0.0.rpk"
+        },
+        "o66": {
+            "version": "25.4.19_1.1.0",
+            "file_name": "o66_com.givemefive.pics.release.1.1.0.rpk"
+        },
+        "o66nfc": {
+            "version": "25.4.19_1.1.0",
+            "file_name": "o66_com.givemefive.pics.release.1.1.0.rpk"
+        },
+        "n66": {
+            "version": "24.7.20_1.0",
+            "file_name": "n66_com.givemefive.pics.release.1.0.rpk"
+        },
+        "n67": {
+            "version": "24.10.20_2.0",
+            "file_name": "n67_com.givemefive.pics.rpk"
+        }
+    }
+}
